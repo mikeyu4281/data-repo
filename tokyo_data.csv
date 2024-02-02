@@ -1,4 +1,4 @@
-y/m/d,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
+y/m/d,high,low,max_precipitation_10min(mm),daylight_hours(hours)
 1984/1/1,10.1,0.9,0,8.5
 1984/1/2,8.9,0.3,0,7
 1984/1/3,7.7,0.9,1,4.1
@@ -2559,7 +2559,7 @@ y/m/d,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
 ,,,,
 ,,,,
 ,tokyo,tokyo,tokyo,tokyo
-”NŒ“ú,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
+å¹´æœˆæ—¥,high(â„ƒ),low(â„ƒ),max_precipitation_10min(mm),daylight_hours(hours)
 ,,,,
 ,,,,
 1998/1/1,12.7,3.4,0,3.6
@@ -5121,7 +5121,7 @@ y/m/d,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
 2004/12/31,4.3,0.2,2,0
 ,,,,
 ,tokyo,tokyo,tokyo,tokyo
-”NŒ“ú,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
+å¹´æœˆæ—¥,high(â„ƒ),low(â„ƒ),max_precipitation_10min(mm),daylight_hours(hours)
 ,,,,
 ,,,,
 1998/1/1,12.7,3.4,0,3.6
@@ -7681,9 +7681,9 @@ y/m/d,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
 2004/12/29,6.6,1.2,1,0
 2004/12/30,8.6,1.6,0,8.5
 2004/12/31,4.3,0.2,2,0
-ƒ_ƒEƒ“ƒ[ƒh‚µ‚½F2019/04/20 17:42:15,,,,
+ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸæ™‚åˆ»ï¼š2019/04/20 17:42:15,,,,
 ,tokyo,tokyo,tokyo,tokyo
-”NŒ“ú,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
+å¹´æœˆæ—¥,high(â„ƒ),low(â„ƒ),max_precipitation_10min(mm),daylight_hours(hours)
 ,,,,
 ,,,,
 2005/1/1,8.8,1.3,0,7.6
@@ -10244,7 +10244,7 @@ y/m/d,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
 2011/12/31,10,1.8,0,6.5
 ,,,,
 ,tokyo,tokyo,tokyo,tokyo
-”NŒ“ú,high(),low(),max_precipitation_10min(mm),daylight_hours(hours)
+å¹´æœˆæ—¥,high(â„ƒ),low(â„ƒ),max_precipitation_10min(mm),daylight_hours(hours)
 ,,,,
 ,,,,
 2012/1/1,9.2,2.9,0,3.3
